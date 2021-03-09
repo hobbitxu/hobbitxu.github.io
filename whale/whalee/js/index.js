@@ -1,4 +1,4 @@
-var whale = (function () {
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>var whale = (function () {
 
   var element = document.getElementById("whale")
     , width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth
