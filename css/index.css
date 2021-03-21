@@ -4204,7 +4204,7 @@ _:future,
   z-index: 22;
 }
 #vcomment textarea {
-  background: url("https://img.imgdb.cn/item/605704b6524f85ce295f9278.jpg") 100% 100% no-repeat;
+  background: url("/img/comment_bg.png") 100% 100% no-repeat;
 }
 #vcomment textarea:focus {
   background-image: none;
